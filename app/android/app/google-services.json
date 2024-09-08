@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "889487711594",
+    "project_id": "smart-irrigation-fcb24",
+    "storage_bucket": "smart-irrigation-fcb24.appspot.com",
+    "firebase_url":"https://smart-irrigation-fcb24-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889487711594:android:00e438ef27a58f52585913",
+        "android_client_info": {
+          "package_name": "com.example.smart_irri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufyO33Vn-zx_F399pqsFEo_w2frXgrKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889487711594:android:aa47dec25e4306e9585913",
+        "android_client_info": {
+          "package_name": "com.sih_proj.smart_irri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufyO33Vn-zx_F399pqsFEo_w2frXgrKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

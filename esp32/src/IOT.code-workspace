@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/IOT"
+		},
+		{
+			"name": "FINGERFLOW",
+			"path": "../../FINGERFLOW"
+		},
+		{
+			"name": "Smart-Irrigation",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

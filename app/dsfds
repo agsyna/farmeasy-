@@ -1,0 +1,149 @@
+[33mcommit 708a2916d0f124fc437d534964304574d7f5ece2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: harshs-06 <harsh.soni.23cse@bmu.edu.in>
+Date:   Sun Sep 8 02:27:11 2024 +0530
+
+    hindi prompts
+
+[33mcommit 9b9b67a65be6119b4aa193647e1027a150531c03[m
+Author: agsyna <agarwalasyna@gmail.com>
+Date:   Sat Sep 7 19:07:54 2024 +0530
+
+    Notifications & ChatBox Implemented
+
+[33mcommit b054469d4a5e124302da35105615d38a23439517[m
+Author: agsyna <agarwalasyna@gmail.com>
+Date:   Sat Sep 7 12:45:46 2024 +0530
+
+    Notification
+
+[33mcommit c35d6d2e740b77d689fe5113247ab536abb5e03d[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Fri Sep 6 21:50:29 2024 +0530
+
+    soil info
+
+[33mcommit 4480b0ad8900d86e7adeb599e349b408fb1fbda2[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Fri Sep 6 19:08:56 2024 +0530
+
+    Faqs
+
+[33mcommit 9cd6374592fe7b6b45470b65919f8d07c0b92895[m[33m ([m[1;31mmaster/punya[m[33m, [m[1;31mmaster/amartya[m[33m)[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Sun Sep 1 18:58:41 2024 +0530
+
+    Fixed firebase
+
+[33mcommit afdaaf910c46a1b201a6973744ac1e231cced211[m
+Merge: 053e89f 0ed74a0
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Sun Sep 1 18:24:14 2024 +0530
+
+    Merge branch 'master' of https://github.com/agsyna/SIH-proj
+
+[33mcommit 053e89fa024bf8c8467f9a7b0b73919b04b1949b[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Sun Sep 1 18:19:37 2024 +0530
+
+    Abcd
+
+[33mcommit 0ed74a0d1aef9317230d58dcaf74d5e8d9e2a163[m
+Author: agsyna <agarwalasyna@gmail.com>
+Date:   Sun Sep 1 18:14:08 2024 +0530
+
+    Added soilinfo
+
+[33mcommit b0123fe2a738e1427fb50dc64cfa8c3ed5d11914[m
+Author: agsyna <agarwalasyna@gmail.com>
+Date:   Sun Sep 1 12:06:41 2024 +0530
+
+    Added Authentication Codes, Dynamic HomePage
+
+[33mcommit 51e73c0a1d2d349a5cae1cf6a26fbccb131f3a33[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Sat Aug 31 01:18:54 2024 +0530
+
+    Weather
+
+[33mcommit d47ef0f199de2a5a11916316bfe9c530819a357a[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Fri Aug 30 21:54:57 2024 +0530
+
+    Weather
+
+[33mcommit 1f1ccfaa57539d0119a88465f84bc088e6683537[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Sun Aug 25 11:49:25 2024 +0530
+
+    Drawer
+
+[33mcommit 4d0088961bb6f55136d4e7ad89a909707dc43822[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Sat Aug 24 17:06:10 2024 +0530
+
+    Apk
+
+[33mcommit ddb8725cbef5ef86685b9a2230c6c7903767475d[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Fri Aug 23 23:34:28 2024 +0530
+
+    Homepage
+
+[33mcommit e2fae4603f2ca38833de27b186c88dabf4ef6e11[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Fri Aug 23 20:14:19 2024 +0530
+
+    Firebase with homepage
+    with '#' will be ignored, and an empty message aborts the commit.
+    
+    On branch master
+    Your branch is ahead of 'master/master' by 2 commits.
+      (use "git push" to publish your local commits)
+    
+    Changes to be committed:
+            modified:   lib/firebase_options.dart
+            modified:   lib/homepage.dart
+            modified:   lib/login.dart
+            modified:   lib/main.dart
+            modified:   lib/main_page.dart
+            modified:   pubspec.lock
+            modified:   pubspec.yaml
+
+[33mcommit 548499874b5943e1d0715c9d5fa81847817dae3c[m
+Merge: 900381b 9ac31a5
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Fri Aug 23 20:05:26 2024 +0530
+
+    Merge branch 'master' of https://github.com/agsyna/SIH-proj
+
+[33mcommit 900381ba8ae2b203f0e8370cb2cc67076915d696[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Fri Aug 23 20:04:07 2024 +0530
+
+    Please enter the commit message for your changes. Lines starting
+    with '#' will be ignored, and an empty message aborts the commit.
+    
+    On branch master
+    Your branch is behind 'master/master' by 1 commit, and can be fast-forwarded.
+      (use "git pull" to update your local branch)
+    
+    Changes to be committed:
+            modified:   lib/firebase_options.dart
+            modified:   lib/homepage.dart
+            modified:   lib/login.dart
+            modified:   lib/main.dart
+            modified:   lib/main_page.dart
+            new file:   lib/splash_screen.dart
+            modified:   pubspec.yaml
+
+[33mcommit 9ac31a520ef44b9cc14995f51ddced7580b2a15e[m
+Author: agsyna <agarwalasyna@gmail.com>
+Date:   Fri Aug 23 18:12:49 2024 +0530
+
+    Home Page
+
+[33mcommit d5a06d62a7d4e71d55e8d3b29101f21d3ecd436b[m
+Author: Akash Choudhary <akashkumar786147@gmail.com>
+Date:   Tue Aug 20 23:34:45 2024 +0530
+
+    Firebase Integrated
